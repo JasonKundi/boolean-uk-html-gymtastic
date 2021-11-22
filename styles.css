@@ -1,0 +1,113 @@
+* {
+    padding: 0px;
+    margin:0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.header,
+.footer {
+    background-color: rgb(0, 137, 161);
+    padding: 20px;
+    
+}
+
+.navigation, .navigation li {
+    display:inline;
+    color: white;
+    margin-left: 40px;
+}
+
+
+
+h1 {
+    font-size: 20px;
+    color: white;
+    display: inline;
+
+}
+
+h4 {
+
+    color: white;
+    font-weight: lighter;
+    padding-bottom: 10px;
+}
+
+h2 {
+    color: rgb(0, 137, 161);
+
+}
+
+
+.main {
+    padding: 20px
+
+}
+
+span {
+    color: blue;
+    font-weight: bold;
+}
+
+.membership {
+    padding: 10px 20px; 
+    border: 2px solid orange;
+    border-radius: 10px ;
+    text-transform: uppercase;
+    color: orange;
+    margin: 20px;
+    display: inline-block;
+    font-weight: bold;
+
+}
+
+.instagram, 
+.facebook, 
+.youtube {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 6px;
+    border: 1px solid black;
+    margin-right: 20px;
+    color: white;
+
+}
+
+.instagram {
+    background-color: rgb(135, 75, 244);
+    font-weight: bold;
+
+}
+
+.facebook {
+    background-color: rgb(53, 120, 234);
+    font-weight: bold;
+}
+
+.youtube {
+    background-color:rgb(234, 50, 35);
+    font-weight: bold;
+}
+ 
+
+.gyms {
+    display: inline;
+    margin-right: 30px;
+    list-style: none;
+    color: white;
+
+}
+
+.gym-list li { 
+    list-style: none;
+    padding-left: 20px;
+    color: white;
+    font-weight: lighter;
+
+}
+
+.gyms {
+    font-weight:bold
+}
+    
